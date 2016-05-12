@@ -59,7 +59,7 @@ var beginApp = function(){
 
     // Function to display all of the products available for sale in a table
     var getBamazonProducts = function (products){
-        console.log("Hello, Welcome to Bamazon! Here are all of the products, their current costs, and stock.");
+        console.log("Hello, Welcome to Bamazon! Here are all of the products, their costs, and current stock.");
         for (var i = 0; i < products.length; i++) {
             var productsResults = "\r\n"+
             "ItemID: " + products[i].ItemID+"\r\n"+
