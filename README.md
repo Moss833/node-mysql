@@ -6,14 +6,16 @@
 * I created an Amazon-like storefront app, called Bamazon, using MySQL, the MySQL NPM Package, and the Prompt Package.
 * This app takes in orders from customers and deplete from the store's total supplies.
 * The app first displays a list of all of the available products, their costs, and current stock.
-![ScreenShot](screenshots/menu.png "Menu of items")
+![ScreenShot](screenshots/menu.png "Menu of items.")
+
 * The app asks the following things from the user.
 
 	1. product ID
 	2. the amount the user wants to purchase
+![ScreenShot](screenshots/prompts.png "Prompts for ID and how many.")
+
 
 * It must be ran in the command line.
-
 * Type in node main.js to start the app.
 
 * These are the npm packages I used and are needed to run the app
