@@ -1,4 +1,4 @@
-# Week 11 homework assignment:
+# Week 12 homework assignment:
 ## Node.js & MySQL
 
 ### Introduction
