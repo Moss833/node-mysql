@@ -28,7 +28,7 @@ connection.connect(function(err){
             },
             howMany: {
             message: "Please enter how many you would like to buy.",
-            pattern: /^[0-9][0-9]$|^[0-9]$/,
+            pattern: /^[0-9][0-9]$|^[0-9][0-9][0-9]$/,
             required: true
             }
         }
